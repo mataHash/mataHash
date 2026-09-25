@@ -15,47 +15,21 @@ Im an enthusiast about building apps, websites, experimenting with AI, linux, se
 <br>
 ---
 ## skills & Tech Stack
+| Area             | Language   | Technology                  | Level       |
+| ---------------- | ---------- | --------------------------- | ----------- |
+| Frontend         | TypeScript | Astro · SSG                 | Comfortable |
+| Frontend         | TypeScript | React · Angular             | Learning    |
+| Backend          | Go         | HTTP · PostgreSQL           | Developing  |
+| Backend          | C#         | ASP.NET Core                | Developing  |
+| Backend          | Python     | Django                      | Developing  |
+| Database         | SQL        | PostgreSQL · SQLite · MySQL | Developing  |
+| Database tooling | Go / C#    | sqlc · Goose · EF Core      | Developing  |
+| Systems          | —          | Linux · Bash · POSIX        | Learning    |
+| Infrastructure   | Nix        | NixOS · Flakes              | Developing  |
+| Virtualization   | —          | QEMU · KVM                  | Learning    |
+| DevOps           | —          | Docker · Kubernetes         | Learning    |
+| ML               | Python     | NumPy · Pandas · Matplotlib | Learning    |
 
-### frontend
--  -[x] **Astro**: ssg
--  -[ ] **React**:
--  -[ ] **Angular**:
--  -[ ] **Sli.dev**:
-  
-### Backend 
-- -[ ] **asp.net**
-- -[ ] **node.js**
-- -[ ] **Django**
-- -[ ] **Axium**
-- -[ ] **fiber**
-- -[ ] **phoenix**
-- -[ ] **otp**
-### Database
-- -[ ] **MySQL**
-- -[ ] **PostgreSQL**
-- -[ ] **SQLite**
-- -[ ] **MongoDB**
-- -[ ] **Pinecone**
-- -[ ] **goose**
-- -[ ] **sqlc**
-- -[ ] **dotnet ef**
-### cloud & DevOps
-- -[ ] **Docker**
-- -[ ] **kubernetes**
-- -[ ]  **AWS**
-- -[ ] **qemu**
-- -[ ] **kvm**
-- -[ ] **Terraform**
-### AI/ML/DL
-- -[ ] **Pandas**
-- -[ ] **Numpy**
-- -[ ] **Matplotlib**
-- -[ ] **TensorFlow**
-- -[ ] **oLlama**
-### sysadmin
-- -[ ] **Bash shell**
-- -[ ] **linux**
-- -[ ] **nix/nixos**
 ---
 - 💬 Ask me about **linux, math, music, unix tools for development...or anything [here](https://github.com/{mata-codes}/{mata-codes}/issues)**
 
