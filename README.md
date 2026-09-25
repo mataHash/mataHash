@@ -8,6 +8,7 @@
 Im an enthusiast about building apps, websites, experimenting with AI, linux, secure development and their usage made for solving real world problems. <br>
 ### roadmap card
 [![roadmap.sh](https://roadmap.sh/card/tall/68d2ba5d0cfd8bc6c30449da?variant=dark&roadmaps=full-stack%2Cmachine-learning%2Clinux%2Ccomputer-science)](https://roadmap.sh)
+[![mataHash's github stats](https://github-stats-extended.vercel.app/api?username=mataHash)](https://github.com/stats-organization/github-stats-extended)
 <br>
 ---
 ## skills & Tech Stack
