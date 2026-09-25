@@ -11,7 +11,6 @@ Im an enthusiast about building apps, websites, experimenting with AI, linux, se
 <br>
 ### github stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mataHash&rank_icon=github&custom_title=mataHash%27s%20stats&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=mataHash&rank_icon=github&custom_title=mataHash%27s%20stats&show_icons=true&include_all_commits=true&theme=tokyonight)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mataHash&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=mataHash&layout=compact&langs_count=4&theme=tokyonight)
 <br>
 ---
