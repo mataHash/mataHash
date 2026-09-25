@@ -1,4 +1,4 @@
-# welcome to mata-codes hub
+# welcome to mataHash hub
 ---
 ## Software engineer student | math enthusiast
 
