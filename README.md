@@ -3,7 +3,6 @@
 ## Software engineer student | math enthusiast
 
 [![committers.top badge](https://user-badge.committers.top/dominican_republic/mataHash.svg)](https://user-badge.committers.top/dominican_republic/mataHash)
-
 ---
 Im an enthusiast about building apps, websites, experimenting with AI, linux, secure development and their usage made for solving real world problems. <br>
 ### roadmap card
